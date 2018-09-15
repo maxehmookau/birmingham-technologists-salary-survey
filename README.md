@@ -9,7 +9,7 @@ This repository contains all of the data collected from the Birmingham Technolog
 
 ## Data
 
-[2018](2018/data.csv)
+[2018](2018/data.csv) - 79 responses
 
 ## Things to note
 
