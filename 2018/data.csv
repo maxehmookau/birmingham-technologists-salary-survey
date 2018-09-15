@@ -1,0 +1,80 @@
+Which one of these is closest to your job title?,What is your seniority?,What is your gross (before tax) base salary in £?,Are you satisfied with your salary?,How many years experience do you have?
+Web Developer,Junior/Graduate,18000,Yes,0 - 1
+Quality Assurance,Junior/Graduate,18000,No,1 - 2
+Web Developer,Mid-level,20000,No,3 - 4
+DevOps Engineer/Systems Administrator,Junior/Graduate,20000,Yes,1 - 2
+CEO/Managing Director of a Tech Company,Principal,20000,No,5 - 6
+Quality Assurance,Junior/Graduate,20000,No,1 - 2
+Software Developer/Engineer,Junior/Graduate,21000,Yes,0 - 1
+Software Developer/Engineer,Junior/Graduate,22000,No,0 - 1
+Frontend Developer,Mid-level,23000,No,2 - 3
+CEO/Managing Director of a Tech Company,Principal,24000,No,>10
+Frontend Developer,Junior/Graduate,25000,No,1 - 2
+Web Developer,Mid-level,25000,No,6 - 7
+Software Developer/Engineer,Junior/Graduate,25300,No,0 - 1
+Software Developer/Engineer,Junior/Graduate,27000,Yes,1 - 2
+Full Stack Developer,Senior,27000,Yes,7 - 8
+Software Developer/Engineer,Junior/Graduate,27000,No,1 - 2
+Backend Developer,Mid-level,27500,No,5 - 6
+Software Developer/Engineer,Junior/Graduate,28700,No,1 - 2
+Web Developer,Mid-level,30000,Yes,5 - 6
+DevOps Engineer/Systems Administrator,Mid-level,30000,No,2 - 3
+Backend Developer,Mid-level,32000,Yes,2 - 3
+Web Developer,Senior,32000,Yes,3 - 4
+Backend Developer,Mid-level,34000,Yes,4 - 5
+Frontend Developer,Mid-level,34500,Yes,3 - 4
+Backend Developer,Senior,35000,Yes,7 - 8
+Software Developer/Engineer,Senior,35500,No,>10
+Software Developer/Engineer,Mid-level,36000,No,7 - 8
+DevOps Engineer/Systems Administrator,Mid-level,38000,Yes,3 - 4
+Software Developer/Engineer,Senior,40000,Yes,9 - 10
+Software Developer/Engineer,Senior,40000,No,>10
+Frontend Developer,Senior,40000,No,>10
+Web Developer,Senior,41000,No,7 - 8
+DevOps Engineer/Systems Administrator,Senior,41200,No,>10
+Quality Assurance,Senior,42000,No,>10
+Full Stack Developer,Mid-level,42000,No,4 - 5
+Full Stack Developer,Senior,42500,No,>10
+Software Developer/Engineer,Senior,43000,Yes,4 - 5
+Software Developer/Engineer,Senior,43800,Yes,6 - 7
+Software Developer/Engineer,Senior,44000,No,9 - 10
+Software Developer/Engineer,Mid-level,44000,Yes,8 - 9
+Full Stack Developer,Senior,45000,Yes,8 - 9
+Software Developer/Engineer,Principal,45000,No,9 - 10
+Software Developer/Engineer,Junior/Graduate,45000,Yes,0 - 1
+Software Developer/Engineer,Senior,46000,No,>10
+Software Developer/Engineer,Senior,46000,Yes,9 - 10
+Web Developer,Senior,47000,Yes,>10
+Full Stack Developer,Senior,47400,Yes,>10
+ScrumMaster,Senior,48500,Yes,5 - 6
+Software Developer/Engineer,Senior,50000,No,>10
+Software Developer/Engineer,Senior,50000,Yes,>10
+Software Developer/Engineer,Senior,50000,Yes,>10
+Software Developer/Engineer,Senior,51000,No,>10
+ScrumMaster,Senior,52000,Yes,>10
+Software Developer/Engineer,Senior,52500,Yes,>10
+Software Developer/Engineer,Principal,55000,Yes,9 - 10
+Software Developer/Engineer,Senior,55000,Yes,7 - 8
+Software Developer/Engineer,Principal,55000,Yes,>10
+Software Developer/Engineer,Senior,58000,Yes,3 - 4
+Full Stack Developer,Principal,58000,Yes,>10
+CEO/Managing Director of a Tech Company,Senior,60000,No,>10
+Software Developer/Engineer,Senior,60000,Yes,8 - 9
+Software Developer/Engineer,Principal,60000,Yes,7 - 8
+Software Developer/Engineer,Principal,60000,Yes,9 - 10
+Backend Developer,Senior,60000,Yes,6 - 7
+Software Developer/Engineer,Senior,60000,No,8 - 9
+Software Developer/Engineer,Senior,65000,Yes,>10
+DevOps Engineer/Systems Administrator,Senior,65000,Yes,>10
+ScrumMaster,Senior,65000,No,>10
+UX Developer/Analyist,Senior,65000,Yes,>10
+Web Developer,Senior,67000,Yes,>10
+DevOps Engineer/Systems Administrator,Principal,80000,Yes,>10
+Backend Developer,Senior,80000,Yes,8 - 9
+Full Stack Developer,Senior,85000,No,6 - 7
+Software Developer/Engineer,Principal,85000,Yes,9 - 10
+Software Developer/Engineer,Senior,100000,Yes,3 - 4
+Software Developer/Engineer,Senior,100000,No,>10
+Full Stack Developer,Senior,100000,Yes,>10
+Software Developer/Engineer,Principal,110000,Yes,>10
+Software Developer/Engineer,Senior,120000,Yes,>10

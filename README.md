@@ -9,7 +9,11 @@ This repository contains all of the data collected from the Birmingham Technolog
 
 ## Data
 
-2018 (Coming soon)
+[2018](2018/data.csv)
+
+## Things to note
+
+* The data has been tidied up to reduce the risk of data being associated with an individual.
 
 ## License
 
