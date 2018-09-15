@@ -4,7 +4,7 @@ This was the first year of the salary survey.
 
 ## Overview
 
-* We had **77** people take part.
+* We had **79** people take part.
     * It was not as many as I had hoped for, but still good enough for a first try.
 * Respondents were entirely self-selecting.
     * Anyone who thought they counted as a "technologist" and lived within Birmingham were invited to take part.
@@ -16,10 +16,9 @@ This was the first year of the salary survey.
 
 #### Overview of findings
 
-* Sample size of **77**
+* Sample size of **79**
 * Range of salaries recorded were between **£18,000 - £120,000**
-* Median salary: **£43,982.50**
-* Mean salary: **£47,531.88**
+* Mean salary: **£47,627**
 * Data was heavily skewed towards more senior/experienced developers:
  * **37%** of respondents had 10 or more years experience.
  * **68%** of respondents said they were either "senior" or "principal" in terms of seniority.
